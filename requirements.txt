@@ -29,7 +29,6 @@ py-tgcalls==1.2.9
 ntgcalls==1.1.2
 pykeyboard
 pyshorteners
-pyrogram==2.0.106
 python-dotenv
 phonenumbers
 pyyaml==6.0.1
@@ -40,12 +39,7 @@ spotipy
 tgcrypto
 telegraph==2.2.0
 unidecode
-yt-dlp
-#git+https://github.com/joetats/youtube_search@master
-#git+https://github.com/alexmercerind/youtube-search-python@main
 gtts
-youtube_search
-youtube-search-python
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.4.7
 httpx==0.25.2
@@ -53,3 +47,7 @@ gpytranslate
 openai==0.28.0
 mpv
 moviepy
+youtube-search
+youtube-search-python
+git+https://github.com/KurimuzonAkuma/pyrogram
+git+https://github.com/yt-dlp/yt-dlp
